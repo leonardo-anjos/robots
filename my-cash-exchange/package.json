@@ -1,0 +1,13 @@
+{
+  "name": "my-cash-exchange",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^2.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
